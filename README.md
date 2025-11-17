@@ -1,5 +1,6 @@
 # 🎯 Toon4D  
 **TOON (Token-Oriented Object Notation) support for Delphi**
+Read more [Read more about TOON](https://www.freecodecamp.org/news/what-is-toon-how-token-oriented-object-notation-could-change-how-ai-sees-data/)
 
 A lightweight **Token-Oriented Object Notation (TOON)** library for Delphi.
 
